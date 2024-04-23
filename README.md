@@ -1,16 +1,6 @@
 # ME
 I'm baus, the code wrangler with a penchant for coffee-fueled coding adventures.
 
-## About Me
-I'm just a tech explorer navigating the vast terrain of ones and zeros. If I'm not wrestling with code, you'll find me on a quest for the perfect taco or contemplating the mysteries of the universe.
-
-## My Coding Quests
-I specialize in software development, and currently, I'm on a noble quest to conquer all technologies. Spoiler alert: It involves a lot of trial, error, and maybe a bit too much caffeine.
-
-## Projects & Shenanigans
-- **Project Unicorn:** Because every project needs a touch of magic. Results: Surprisingly magical!
-- **The Great Cookie Code-off:** Tried turning cookies into code. The cookies tasted better, but hey, coding is a delicious journey.
-
 ## Skills
 ### **Coding Languages:**
 - Pyhton
