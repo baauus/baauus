@@ -1,2 +1,2 @@
-# Backend Engineer
-Learning different technologies to grow as a Backend Engineer.
+# System administrator / Cloud Engeenier / DevOps
+Learning and experimenting with different tech to grow as an IT professional.
