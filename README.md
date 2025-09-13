@@ -4,20 +4,23 @@ System Administrator based in **Andorra**, focused on **Linux**, **AWS/Azure**, 
 
 I’m studying **Computer Engineering** and working toward **cloud certifications**. Short-term goal: move into a **DevOps** role where I can bring reproducible deployments, observability, and strong operational practices.
 
----
-
-### 🔧 Tech & Tools
-- **Cloud:** AWS, Azure  
-- **IaC:** Terraform *(learning)*  
-- **CI/CD:** GitHub Actions  
-- **Systems:** Linux, Bash
-- **Virtualitzation:** VMware, Hyper-V and Proxmox
-- **Other:** Networking, Microsoft 365, Microsoft Active Directory
 
 ### 🚀 Current Focus
 - Cloud migrations & **deployment automation**  
 - Reproducible **build → test → deploy** pipelines  
 - Best practices for **cost, security, and observability**
+---
+
+### 🔧 Tech & Tools
+- **Cloud:** AWS, Azure - *(learning)*  
+- **IaC:** Terraform - *(learning)*  
+- **CI/CD:** GitHub Actions - *(learning)*   
+- **Systems:** Linux, Bash
+- **Virtualitzation:** VMware, Hyper-V and Proxmox
+- **Containers & Orchestration:** Docker, Kubernetes - *(learning)* 
+- **Other:** Networking, Microsoft 365, Microsoft Active Directory
+
+
 
 ### 🎓 Certifications
 - **AWS Certified: Cloud Practitioner (CLF-C02)** - *planned* 
