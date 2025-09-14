@@ -19,6 +19,7 @@ I’m studying **Computer Engineering** and working toward **cloud certification
 - **Virtualitzation:** VMware, Hyper-V and Proxmox
 - **Containers & Orchestration:** Docker and Kubernetes - *(learning)*
 - **Monitorization:** Zabbix and PRTG
+- **Versions control:** Git and GitHub
 - **Other:** Networking, Microsoft 365 and Microsoft Active Directory
 
 ### 🎓 Certifications
