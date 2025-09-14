@@ -12,15 +12,14 @@ I’m studying **Computer Engineering** and working toward **cloud certification
 ---
 
 ### 🔧 Tech & Tools
-- **Cloud:** AWS, Azure - *(learning)*  
+- **Cloud:** AWS and Azure - *(learning)*  
 - **IaC:** Terraform - *(learning)*  
 - **CI/CD:** GitHub Actions - *(learning)*   
-- **Systems:** Linux, Bash
+- **Systems:** Linux, Bash and PowerShell
 - **Virtualitzation:** VMware, Hyper-V and Proxmox
-- **Containers & Orchestration:** Docker, Kubernetes - *(learning)* 
-- **Other:** Networking, Microsoft 365, Microsoft Active Directory
-
-
+- **Containers & Orchestration:** Docker and Kubernetes - *(learning)*
+- **Monitorization:** Zabbix and PRTG
+- **Other:** Networking, Microsoft 365 and Microsoft Active Directory
 
 ### 🎓 Certifications
 - **AWS Certified: Cloud Practitioner (CLF-C02)** - *planned* 
