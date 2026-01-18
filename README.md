@@ -15,7 +15,7 @@ DevOps Engineer based in **Barcelona**. I enjoy automating workflows, managing i
 - **Systems:** Bash and PowerShell
 - **Virtualitzation:** VMware, Hyper-V and Proxmox
 - **Containers & Orchestration:** Docker and Kubernetes
-- **Monitorization:** Zabbix and PRTG
+- **Monitorization:** Zabbix,PRTG and Prometheus
 - **Versions control:** Git and GitHub
 - **Other:** Networking, Microsoft 365 and Microsoft Active Directory
 
