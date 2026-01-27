@@ -21,12 +21,7 @@ DevOps Engineer based in **Barcelona**. I enjoy automating workflows, managing i
 
 ### 🎓 Certifications
 - **AWS Certified: Cloud Practitioner (CLF-C02)**
-- **AWS Certified: Solutions Architect – Associate (SAA-C03)** - *planned* 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Microsoft Certified: Microsoft 365 Fundamentals (MS-900)**
 - **Microsoft Certified: Microsoft 365 Endpoint Administrator (MD-102)**
-- **Docker Certification: Docker Certified Associate (DCA)** - *planned*
-- **Kubernetes Certification: Certified Kubernetes Administrator (CKA)** - *planned*
 
 ### 📫 Contact
 https://rbaus.dev  
