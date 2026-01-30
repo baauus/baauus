@@ -1,27 +1,2 @@
 # DevOps Engineer
-
-DevOps Engineer based in **Barcelona**. I enjoy automating workflows, managing infrastructure, building CI/CD pipelines, and designing **cloud-native**, reliable, and scalable systems.
-
-### 🚀 Current Focus
-- Cloud migrations & **deployment automation**  
-- Reproducible **build → test → deploy** pipelines
-- Best practices for **cost, security, and observability**
----
-
-### 🔧 Tech & Tools
-- **Cloud:** AWS and GCP
-- **IaC:** Terraform  
-- **CI/CD:** GitHub Actions, Jenkins and AzureDevOps   
-- **Systems:** Bash and PowerShell
-- **Virtualitzation:** VMware, Hyper-V and Proxmox
-- **Containers & Orchestration:** Docker and Kubernetes
-- **Monitorization:** Zabbix,PRTG and Prometheus
-- **Versions control:** Git and GitHub
-- **Other:** Networking, Microsoft 365 and Microsoft Active Directory
-
-### 🎓 Certifications
-- **AWS Certified: Cloud Practitioner (CLF-C02)**
-- **Microsoft Certified: Microsoft 365 Endpoint Administrator (MD-102)**
-
-### 📫 Contact
-https://rbaus.dev  
+DevOps until an AI replaces me. Currently training my replacement by asking it questions.
